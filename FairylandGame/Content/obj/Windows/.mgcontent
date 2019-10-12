@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>c:/users/matteus/documents/visual studio 2015/Projects/FairylandGame/FairylandGame/Content/BalloonBlue.png</File>
+    <File>c:/users/matteus/documents/visual studio 2015/Projects/FairylandGame/FairylandGame/Content/BalloonGreen.png</File>
+    <File>c:/users/matteus/documents/visual studio 2015/Projects/FairylandGame/FairylandGame/Content/BalloonPink.png</File>
+    <File>c:/users/matteus/documents/visual studio 2015/Projects/FairylandGame/FairylandGame/Content/BalloonPurple.png</File>
+    <File>c:/users/matteus/documents/visual studio 2015/Projects/FairylandGame/FairylandGame/Content/BalloonRed.png</File>
+    <File>c:/users/matteus/documents/visual studio 2015/Projects/FairylandGame/FairylandGame/Content/BalloonYellow.png</File>
+    <File>c:/users/matteus/documents/visual studio 2015/Projects/FairylandGame/FairylandGame/Content/character.png</File>
+    <File>c:/users/matteus/documents/visual studio 2015/Projects/FairylandGame/FairylandGame/Content/charactermovingA.png</File>
+    <File>c:/users/matteus/documents/visual studio 2015/Projects/FairylandGame/FairylandGame/Content/charactermovingD.png</File>
+    <File>c:/users/matteus/documents/visual studio 2015/Projects/FairylandGame/FairylandGame/Content/deermonsters.png</File>
+    <File>c:/users/matteus/documents/visual studio 2015/Projects/FairylandGame/FairylandGame/Content/confetti.png</File>
+    <File>c:/users/matteus/documents/visual studio 2015/Projects/FairylandGame/FairylandGame/Content/File.spritefont</File>
+    <File>c:/users/matteus/documents/visual studio 2015/Projects/FairylandGame/FairylandGame/Content/fence.png</File>
+    <File>c:/users/matteus/documents/visual studio 2015/Projects/FairylandGame/FairylandGame/Content/BG.png</File>
+  </SourceFiles>
+</SourceFileCollection>
