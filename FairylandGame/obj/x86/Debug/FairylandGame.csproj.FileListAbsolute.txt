@@ -35,3 +35,39 @@ c:\users\matteus\documents\visual studio 2015\Projects\FairylandGame\FairylandGa
 c:\users\matteus\documents\visual studio 2015\Projects\FairylandGame\FairylandGame\bin\Windows\x86\Debug\Content\fence.xnb
 c:\users\matteus\documents\visual studio 2015\Projects\FairylandGame\FairylandGame\bin\Windows\x86\Debug\Content\File.xnb
 c:\users\matteus\documents\visual studio 2015\Projects\FairylandGame\FairylandGame\bin\Windows\x86\Debug\Content\BG.xnb
+F:\VisualStudioRepos\FairylandGame\FairylandGame\bin\Windows\x86\Debug\Content\BalloonBlue.xnb
+F:\VisualStudioRepos\FairylandGame\FairylandGame\bin\Windows\x86\Debug\Content\BalloonGreen.xnb
+F:\VisualStudioRepos\FairylandGame\FairylandGame\bin\Windows\x86\Debug\Content\BalloonPink.xnb
+F:\VisualStudioRepos\FairylandGame\FairylandGame\bin\Windows\x86\Debug\Content\BalloonPurple.xnb
+F:\VisualStudioRepos\FairylandGame\FairylandGame\bin\Windows\x86\Debug\Content\BalloonRed.xnb
+F:\VisualStudioRepos\FairylandGame\FairylandGame\bin\Windows\x86\Debug\Content\BalloonYellow.xnb
+F:\VisualStudioRepos\FairylandGame\FairylandGame\bin\Windows\x86\Debug\Content\BG.xnb
+F:\VisualStudioRepos\FairylandGame\FairylandGame\bin\Windows\x86\Debug\Content\character.xnb
+F:\VisualStudioRepos\FairylandGame\FairylandGame\bin\Windows\x86\Debug\Content\charactermovingA.xnb
+F:\VisualStudioRepos\FairylandGame\FairylandGame\bin\Windows\x86\Debug\Content\charactermovingD.xnb
+F:\VisualStudioRepos\FairylandGame\FairylandGame\bin\Windows\x86\Debug\Content\confetti.xnb
+F:\VisualStudioRepos\FairylandGame\FairylandGame\bin\Windows\x86\Debug\Content\deermonsters.xnb
+F:\VisualStudioRepos\FairylandGame\FairylandGame\bin\Windows\x86\Debug\Content\fence.xnb
+F:\VisualStudioRepos\FairylandGame\FairylandGame\bin\Windows\x86\Debug\Content\File.xnb
+F:\VisualStudioRepos\FairylandGame\FairylandGame\bin\Windows\x86\Debug\FairylandGame.exe
+F:\VisualStudioRepos\FairylandGame\FairylandGame\bin\Windows\x86\Debug\FairylandGame.pdb
+F:\VisualStudioRepos\FairylandGame\FairylandGame\bin\Windows\x86\Debug\MonoGame.Framework.dll
+F:\VisualStudioRepos\FairylandGame\FairylandGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+F:\VisualStudioRepos\FairylandGame\FairylandGame\bin\Windows\x86\Debug\SharpDX.dll
+F:\VisualStudioRepos\FairylandGame\FairylandGame\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+F:\VisualStudioRepos\FairylandGame\FairylandGame\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+F:\VisualStudioRepos\FairylandGame\FairylandGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+F:\VisualStudioRepos\FairylandGame\FairylandGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+F:\VisualStudioRepos\FairylandGame\FairylandGame\bin\Windows\x86\Debug\SharpDX.XInput.dll
+F:\VisualStudioRepos\FairylandGame\FairylandGame\bin\Windows\x86\Debug\MonoGame.Framework.xml
+F:\VisualStudioRepos\FairylandGame\FairylandGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+F:\VisualStudioRepos\FairylandGame\FairylandGame\bin\Windows\x86\Debug\SharpDX.xml
+F:\VisualStudioRepos\FairylandGame\FairylandGame\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+F:\VisualStudioRepos\FairylandGame\FairylandGame\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+F:\VisualStudioRepos\FairylandGame\FairylandGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+F:\VisualStudioRepos\FairylandGame\FairylandGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+F:\VisualStudioRepos\FairylandGame\FairylandGame\bin\Windows\x86\Debug\SharpDX.XInput.xml
+F:\VisualStudioRepos\FairylandGame\FairylandGame\obj\x86\Debug\FairylandGame.csprojAssemblyReference.cache
+F:\VisualStudioRepos\FairylandGame\FairylandGame\obj\x86\Debug\FairylandGame.csproj.CopyComplete
+F:\VisualStudioRepos\FairylandGame\FairylandGame\obj\x86\Debug\FairylandGame.exe
+F:\VisualStudioRepos\FairylandGame\FairylandGame\obj\x86\Debug\FairylandGame.pdb

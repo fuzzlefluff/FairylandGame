@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>F:/VisualStudioRepos/FairylandGame/FairylandGame/Content/BalloonBlue.png</File>
+    <File>F:/VisualStudioRepos/FairylandGame/FairylandGame/Content/BalloonGreen.png</File>
+    <File>F:/VisualStudioRepos/FairylandGame/FairylandGame/Content/BalloonPink.png</File>
+    <File>F:/VisualStudioRepos/FairylandGame/FairylandGame/Content/BalloonPurple.png</File>
+    <File>F:/VisualStudioRepos/FairylandGame/FairylandGame/Content/BalloonRed.png</File>
+    <File>F:/VisualStudioRepos/FairylandGame/FairylandGame/Content/BalloonYellow.png</File>
+    <File>F:/VisualStudioRepos/FairylandGame/FairylandGame/Content/character.png</File>
+    <File>F:/VisualStudioRepos/FairylandGame/FairylandGame/Content/charactermovingA.png</File>
+    <File>F:/VisualStudioRepos/FairylandGame/FairylandGame/Content/charactermovingD.png</File>
+    <File>F:/VisualStudioRepos/FairylandGame/FairylandGame/Content/deermonsters.png</File>
+    <File>F:/VisualStudioRepos/FairylandGame/FairylandGame/Content/confetti.png</File>
+    <File>F:/VisualStudioRepos/FairylandGame/FairylandGame/Content/File.spritefont</File>
+    <File>F:/VisualStudioRepos/FairylandGame/FairylandGame/Content/fence.png</File>
+    <File>F:/VisualStudioRepos/FairylandGame/FairylandGame/Content/BG.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
